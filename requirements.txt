@@ -1,0 +1,117 @@
+absl-py==0.15.0
+altgraph==0.17.2
+asttokens==2.0.5
+astunparse==1.6.3
+backcall==0.2.0
+black==22.1.0
+cachetools==5.0.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+clang==5.0
+click==8.0.3
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+colorama==0.4.4
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Cython==0.29.27
+cytoolz==0.11.0
+dask==2021.10.0
+decorator==5.1.1
+executing==0.8.2
+flatbuffers==1.12
+fonttools==4.29.1
+fsspec @ file:///opt/conda/conda-bld/fsspec_1642510437511/work
+future==0.18.2
+gast==0.4.0
+google-auth==2.6.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.34.1
+h5py==3.1.0
+idna==3.3
+imageio==2.16.0
+imgaug==0.4.0
+importlib-metadata==4.11.1
+ipython==8.0.1
+jedi==0.18.1
+joblib==1.1.0
+keras==2.6.0
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///C:/ci/kiwisolver_1644962567532/work
+labelme==3.16.7
+llvmlite==0.38.0
+locket==0.2.1
+Markdown==3.3.6
+matplotlib @ file:///C:/ci/matplotlib-suite_1645455836921/work
+matplotlib-inline==0.1.3
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+munkres==1.1.4
+mypy-extensions==0.4.3
+networkx @ file:///tmp/build/80754af9/networkx_1633639043937/work
+numba @ file:///C:/ci/numba_1650390761636/work
+numpy==1.22.2
+oauthlib==3.2.0
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+opencv-python==4.5.5.62
+opt-einsum==3.3.0
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+parso==0.8.3
+partd @ file:///tmp/build/80754af9/partd_1618000087440/work
+pathspec==0.9.0
+pefile==2021.9.3
+pickleshare==0.7.5
+Pillow==9.0.1
+platformdirs==2.5.0
+prompt-toolkit==3.0.28
+protobuf==3.19.4
+pure-eval==0.2.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycocotools==2.0.4
+Pygments==2.11.2
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.3
+pyparsing==3.0.7
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+PyWavelets==1.2.0
+pywin32-ctypes==0.2.0
+PyYAML==6.0
+QtPy==2.0.1
+requests==2.27.1
+requests-oauthlib==1.3.1
+rsa==4.8
+SciencePlots==1.0.9
+scikit-image==0.16.2
+scikit-learn==1.0.2
+scipy==1.8.0
+Shapely==1.8.1
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+stack-data==0.2.0
+tensorboard==2.8.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+tensorflow-gpu==2.5.0
+termcolor==1.1.0
+threadpoolctl==3.1.0
+tifffile==2022.2.9
+tomli==2.0.1
+toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
+tornado @ file:///C:/ci/tornado_1606942392901/work
+tqdm==4.62.3
+traitlets==5.1.1
+typing-extensions==3.7.4.3
+urllib3==1.26.8
+wcwidth==0.2.5
+Werkzeug==2.0.3
+wincertstore==0.2
+wrapt==1.12.1
+zhdate==0.1
+zipp==3.7.0
